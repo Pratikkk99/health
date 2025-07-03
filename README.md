@@ -1,4 +1,5 @@
 🥗 Gemini Health App – Your AI-Powered Nutrition Companion
+(Streamlit app link:https://health-btgrp9jgrptkacmhrvxthn.streamlit.app/)
 Gemini Health App is an intuitive web application that empowers users to understand the nutritional content of their meals using just a photo. Designed to support healthy living, the app uses AI to analyze meal images and provide accurate calorie estimates.
 🚀 Features
 - 📸 Image Upload: Upload photos of your food in JPG, JPEG, or PNG format (max 200MB).
